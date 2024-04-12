@@ -25,7 +25,7 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/cxx5208/air-quality-project.git](https://github.com/cxx5208/Parallel-Air-Quality-Data-Processing-System.git)
+   git clone https://github.com/cxx5208/Parallel-Air-Quality-Data-Processing-System.git
    ```
 2. Navigate to the project directory:
    ```bash
