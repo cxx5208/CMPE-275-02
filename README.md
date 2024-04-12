@@ -55,6 +55,7 @@ There are two main components of the system:
    ```
 
 ## Architecture
+![image](https://github.com/cxx5208/CMPE-275-02/assets/76988460/fe50b223-7347-4265-b5ca-6125d0a4631d)
 
 The system architecture is designed to maximize efficiency and scalability. It involves several stages of data handling, from initial parsing to final visualization:
 
